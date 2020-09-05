@@ -1,0 +1,10 @@
+version: "3.5"
+services:
+  jupyter:
+    image:  jupyter/datascience-notebook #python:3.8
+    # command: [sh, -c, "pip install -r requirements.txt"]
+    volumes:
+      - .:/home/jovyan/work
+    ports:
+      - 8888:8888
+    command: "start-notebook.sh" 
