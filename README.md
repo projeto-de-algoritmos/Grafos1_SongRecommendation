@@ -47,6 +47,6 @@ Se você tiver docker na sua máquina tudo fica mais fácil. Basta executar o co
   * Para acessar o frontend basta ir até http://localhost:5000/
 
 ## Observação:
-Como dito anteriormente, a frente principal do código está no jupyter notebook, onde todas as etapas estão descritas. O frontend é só para dar uma interface mais amigável para a aplicação.
+Como dito anteriormente, a frente principal do código está no jupyter notebook, no arquivo "songs_recommendation.ipynb" onde todas as etapas estão descritas. O frontend é só para dar uma interface mais amigável para a aplicação.
 
 
