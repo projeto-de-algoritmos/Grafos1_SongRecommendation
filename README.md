@@ -43,7 +43,7 @@ A outra frente do projeto é um frontend, pelo qual você também pode utilizar 
 
 Se você tiver docker na sua máquina tudo fica mais fácil. Basta executar o comando `docker-compose up` e dois ambientes estarão em funcionamento.
   
-  * Para acessar o jupyter notebook basta ir até http://localhost:8888/
+  * Para acessar o jupyter notebook basta ir até http://localhost:8888/ (o token de autenticação é exposto no terminal ao rodar o compose-up)
   * Para acessar o frontend basta ir até http://localhost:5000/
 
 ## Observação:
