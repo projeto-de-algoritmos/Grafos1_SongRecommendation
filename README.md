@@ -32,7 +32,7 @@ Isso se baseia no principio de que se uma pessoa gosta de uma música, tem grand
 O projeto está disposto em duas formas diferentes. Uma é pelo Jupyter notebook, que tem todo o código completo e explica cada uma das etapas. Essa é a parte principal do projeto
 Para executar/visualizar o notebook basta instalar o jupyter notebook na sua maquina através das instruções dispostas na seção "Getting started with the classic Jupyter Notebook" [aqui](https://jupyter.org/install). [Você também pode executar o jupyter notebook através do navegador](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) (não recomendado) ou utilizar o docker, seguindo as instruções mais abaixo.
 
-Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo (songs_recommendation.ipynb)[https://github.com/projeto-de-algoritmos/Grafos1_SongRecommendation/blob/master/songs_recommendation.ipynb] pelo próprio GitHub.
+Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [songs_recommendation.ipynb](https://github.com/projeto-de-algoritmos/Grafos1_SongRecommendation/blob/master/songs_recommendation.ipynb) pelo próprio GitHub.
 
 A outra frente do projeto é um frontend, pelo qual você também pode utilizar a aplicação, trocando a didática do jupyter pelo conforto de ter um design. Para executar essa frente, caso não tenha docker, basta instalar o micro-framework [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/) e em seguida executar o seguinte comando:
 
